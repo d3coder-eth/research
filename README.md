@@ -6,3 +6,4 @@ LRTs
 alt & dym eco
 btc restaking solution
 new fudraisings
+alt eco

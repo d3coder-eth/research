@@ -8,3 +8,4 @@ btc restaking solution
 new fudraisings
 alt eco
 dym eco
+btc l2s

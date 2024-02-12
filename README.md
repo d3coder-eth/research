@@ -8,6 +8,6 @@ btc restaking solution
 new fudraisings
 alt eco
 dym eco
-btc l2s
+btc l2 cat
 modular infra on btc
 404

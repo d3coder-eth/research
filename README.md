@@ -15,3 +15,4 @@ twitter bookmarks
 galxe
 btc l2s
 taiko
+seed round

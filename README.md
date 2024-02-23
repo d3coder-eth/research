@@ -16,4 +16,4 @@ galxe
 btc l2s
 taiko
 seed round
-eigen
+eigenlayer

@@ -18,4 +18,4 @@ taiko
 seed round cryptorank
 eigenlayer
 pre-seed fundraisings
-first memes on opstack
+first memes on l2s

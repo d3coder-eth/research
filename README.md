@@ -19,4 +19,4 @@ seed round cryptorank
 eigenlayer
 pre-seed fundraisings
 first memes on new chains
-zkm
+zkrollape

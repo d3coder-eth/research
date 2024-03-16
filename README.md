@@ -20,3 +20,4 @@ eigenlayer
 pre-seed fundraisings
 first memes on new chains
 zkrollape
+new trends

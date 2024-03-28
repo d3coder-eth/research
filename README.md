@@ -18,4 +18,4 @@ taiko
 seed round cryptorank
 eigenlayer
 pre-seed fundraisings
-fast comeback
+rwa low cap

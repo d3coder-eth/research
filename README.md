@@ -19,4 +19,4 @@ seed round cryptorank
 eigenlayer
 pre-seed fundraisings
 rwa 
-risk ai
+runes

@@ -19,4 +19,5 @@ seed round cryptorank
 eigenlayer
 pre-seed fundraisings
 rwa 
+socialfi
 runes

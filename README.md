@@ -21,3 +21,4 @@ pre-seed fundraisings
 rwa 
 socialfi
 runes
+ton eco

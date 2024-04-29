@@ -23,3 +23,4 @@ socialfi
 runes
 ton eco
 l2s socialfi
+zkvm

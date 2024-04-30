@@ -24,3 +24,4 @@ runes
 ton eco
 l2s socialfi
 zkvm
+next generation blockchain

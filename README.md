@@ -28,4 +28,4 @@ next generation blockchains (ai + modular + parallel +..)
 vitalik new post
 tracking wallets
 new area money flow
-agent&model offering
+agent&model offering (IMO)

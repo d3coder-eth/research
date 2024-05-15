@@ -23,7 +23,6 @@ socialfi
 runes
 ton eco
 l2s socialfi
-zkvm
 next generation blockchains (ai + modular + parallel +..)
 vitalik new post
 tracking wallets

@@ -20,7 +20,6 @@ eigenlayer
 pre-seed fundraisings
 rwa 
 socialfi
-runes
 ton eco
 l2s socialfi
 next generation blockchains (ai + modular + parallel +..)
@@ -29,3 +28,4 @@ tracking wallets
 new area money flow
 agent&model offering (IMO) 
 talus
+

@@ -16,7 +16,6 @@ galxe
 btc l2s
 taiko
 seed round cryptorank
-eigenlayer
 pre-seed fundraisings
 rwa 
 socialfi

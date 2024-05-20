@@ -16,7 +16,6 @@ btc l2s
 taiko
 seed round cryptorank
 pre-seed fundraisings
-rwa 
 socialfi
 ton eco
 l2s socialfi

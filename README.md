@@ -1,5 +1,4 @@
 # research
-parallel
 Espresso
 ai in superchain 
 alt & dym eco

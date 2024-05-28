@@ -5,7 +5,6 @@ alt & dym eco
 btc restaking solution
 new fudraisings
 alt eco
-btc l2 cat
 modular infra on btc
 erc404
 twitter bookmarks

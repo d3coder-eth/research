@@ -8,7 +8,6 @@ alt eco
 modular infra on btc
 erc404
 twitter bookmarks
-btc l2s
 taiko
 seed round cryptorank
 pre-seed fundraisings

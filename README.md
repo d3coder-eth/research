@@ -6,7 +6,6 @@ btc restaking solution
 new fudraisings
 alt eco
 modular infra on btc
-erc404
 twitter bookmarks
 taiko
 seed round cryptorank

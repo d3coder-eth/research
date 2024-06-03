@@ -21,3 +21,4 @@ agent&model offering (IMO)
 talus
 ai*crypto
 gaming
+cryptorank new projects

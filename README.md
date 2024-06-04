@@ -22,3 +22,4 @@ talus
 ai*crypto
 gaming
 cryptorank new projects
+ton eco

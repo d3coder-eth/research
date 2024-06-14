@@ -28,3 +28,4 @@ modular roadmap
 database pros
 modular pros on btc
 zkrollups
+distributed gpus pros

@@ -30,3 +30,4 @@ modular pros on btc
 zkrollups
 distributed gpus pros
 social fi backed by tier 1 vcs
+kiosk

@@ -9,7 +9,6 @@ modular infra on btc
 twitter bookmarks
 taiko
 seed round cryptorank
-pre-seed fundraisings
 socialfi
 ton eco
 l2s socialfi

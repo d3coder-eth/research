@@ -23,7 +23,6 @@ gaming
 cryptorank new projects
 ton eco
 aoe
-modular roadmap
 database pros
 modular pros on btc
 zkrollups

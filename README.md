@@ -30,3 +30,4 @@ distributed gpus pros
 social fi backed by tier 1 vcs
 kiosk
 aiagents+crypto
+new trends

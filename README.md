@@ -33,3 +33,4 @@ aiagents+crypto
 new trends
 zun posts
 chains powered by op stack
+sp1 & zkstack
